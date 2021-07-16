@@ -5,4 +5,4 @@
 
 <img src="https://github.com/shuuuuting/Multimodal-GAN-based-tag-recommendation/blob/main/overview.png" width="800">
 
-#### proposed: sampling  w final model/4-01-8_(condition)GAN.py
+##### proposed: sampling  w final model/4-01-8_(condition)GAN.py
