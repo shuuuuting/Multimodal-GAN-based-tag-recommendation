@@ -4,4 +4,5 @@
 - A novel sampling strategy to reweight sample probability in order to improve Generator and Discriminator’s training performance.
 
 ![image](https://github.com/shuuuuting/Multimodal-GAN-based-tag-recommendation/blob/main/overview.png)
+<img src="https://github.com/shuuuuting/Multimodal-GAN-based-tag-recommendation/blob/main/overview.png" width="150">
 #### proposed: 
